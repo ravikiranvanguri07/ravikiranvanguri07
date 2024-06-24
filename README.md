@@ -7,8 +7,8 @@ I am a passionate software developer with a keen interest in Adobe Experience Ma
 ### 🌱 Currently Learning
 
 I am currently focused on full-stack development with an emphasis on:
-- **Frontend**: React.js, HTML, CSS, JavaScript, SASS, jQuery, Ajax, Sightly (HTl)
-- **Backend**: Node.js, Java
+- **Frontend**: HTML, CSS, JavaScript, SASS, jQuery, Ajax, Sightly (HTL), React.js
+- **Backend**: Java, Node.js
 - **AEM**: Adobe Experience Manager development and integration
 - **Databases**: MongoDB, SQL
 
